@@ -29,6 +29,62 @@ This project was developed to understand and implement various HTML concepts and
 
 Through this project, we gained practical experience in using HTML tags and elements to create structured, user-friendly, and interactive web pages.
 
+### Technologies Used
+
+<h2>🛠️ Technologies Used</h2>
+
+<table border="1" cellpadding="10" cellspacing="0">
+  <tr>
+    <th>Technology</th>
+    <th>Purpose</th>
+  </tr>
+  <tr>
+    <td>🌐 HTML5</td>
+    <td>Creating and structuring webpages</td>
+  </tr>
+  <tr>
+    <td>💻 VS Code</td>
+    <td>Writing and editing code</td>
+  </tr>
+  <tr>
+    <td>🔧 Git</td>
+    <td>Version control</td>
+  </tr>
+  <tr>
+    <td>🐙 GitHub</td>
+    <td>Repository hosting and collaboration</td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
