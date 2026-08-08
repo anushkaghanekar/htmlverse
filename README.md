@@ -2,7 +2,7 @@ This is my first Git Repository
 <br>
 Author - Anushka Ghanekar (Student)
 
-## 📖 HTML Concepts Implemented
+## 📖 HTML Concepts Implemented and Web Development
 
 This project was developed to understand and implement various HTML concepts and tags used in web development.
 
